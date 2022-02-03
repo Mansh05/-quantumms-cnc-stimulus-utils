@@ -1,6 +1,6 @@
 {
   "name": "@quantumms/cnc-stimulus-utils",
-  "version": "0.2.0",
+  "version": "0.4.7",
   "description": "Utilities for frontend states",
   "main": "index.js",
   "license": "MIT",
@@ -15,9 +15,9 @@
   },
   "author": "Manish Sharma",
   "bugs": {
-    "url": "https://github.com/Mansh05/quantumms-cnc-stimulus-forms/issues"
+    "url": "https://github.com/Mansh05/-quantumms-cnc-stimulus-utils/issues"
   },
-  "homepage": "https://github.com/Mansh05/quantumms-cnc-stimulus-forms#readme",
+  "homepage": "https://github.com/Mansh05/-quantumms-cnc-stimulus-utils#readme",
   "dependencies": {
     "rxjs": "^6.6.3",
     "stimulus": "^2.0.0"

@@ -10,6 +10,10 @@ yarn add @quantumms/cnc-stimulus-utils
 npm install @quantumms/cnc-stimulus-utils
 ```
 
+# State Management
+
+This package exposes a controller known as cnc controller
+
 
 
 # Forms
@@ -125,3 +129,8 @@ Than thats it.
 
 TODO: Each use case that we can handle with different kinds of methods
 present in the form.
+
+// Change Logs
+
+0.4.5:
+	Add Option data to all the listeners
